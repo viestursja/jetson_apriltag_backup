@@ -1,0 +1,6 @@
+ gst-launch-1.0 videotestsrc pattern=1 ! "video/x-raw,width=300, height=300, framerate=30/1" ! ximagesink
+viestursja
+gyGKwtv2tcH9CrR
+
+git remote add origin https://github.com/viestursja/jetson_apriltag.git
+git push -u origin main
